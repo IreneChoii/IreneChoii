@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://example.com/your-link" target="_blank">
-  <img src="https://img.shields.io/badge/adobephotoshop-E2BBB4?style=flat-square&logo=your-logo&logoColor=BABABA"/>
+  <img src="file:///Users/irenechoi/Downloads/adobephotoshop.svg-E2BBB4?style=flat-square&logo=your-logo&logoColor=BABABA"/>
 </a>
 
 
