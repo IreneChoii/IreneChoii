@@ -2,7 +2,7 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIreneChoii&count_bg=%238D8D8D&title_bg=%23E2BBB4&icon=awesomelists.svg&icon_color=%238D8D8D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-8D8D8D?logo=instagram&logoColor=FFFFFF&link=https://www.instagram.com/irenechoi_xvx/)](https://www.instagram.com/irenechoi_xvx/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E2BBB4?logo=instagram&logoColor=FFFFFF&link=https://www.instagram.com/irenechoi_xvx/)](https://www.instagram.com/irenechoi_xvx/)
 
 
 #### Design Stack
