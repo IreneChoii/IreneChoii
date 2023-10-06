@@ -1,5 +1,5 @@
 # 🎀 Welcom to Irene's Github 🎀
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient(45,E2BBB4,D595B2)&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient(D595B2)&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 
