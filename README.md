@@ -20,6 +20,10 @@
 ![React-Native](https://img.shields.io/badge/React-Native-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 
 
+[![IreneChoi's github stats](https://github-readme-stats.vercel.app/api?username={irenechoii}&count_private={true}&custom_title={Irene Choi Status}&bg_color={45,E2BBB4,D595B2}&title_color={8D8D8D}&text_color={FFFFFF})](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 #### Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=irenelove112)](https://solved.ac/irenelove112)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
