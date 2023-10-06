@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-![React-Native](https://img.shields.io/badge/React-Native-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![React-Native](https://img.shields.io/badge/ReactNative-535353.svg?&style=for-the-badge&logo=React&logoColor=white)
 
 
 #### Top Language
