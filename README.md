@@ -20,10 +20,12 @@
 ![React-Native](https://img.shields.io/badge/React-Native-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 
 
-
+#### Top Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irenechoii)](https://github.com/anuraghazra/github-readme-stats)
 
 
+#### Github Status
+[![Irene's github stats](https://github-readme-stats.vercel.app/api?username=IreneChoi&count_private=true&custom_title=타이틀&bg_color=45,D595B2,E2BBB4&title_color=8D8D8D&text_color=BABABA)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Solved.ac
