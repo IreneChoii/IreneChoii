@@ -25,7 +25,7 @@
 
 
 #### Github Status
-[![Irene's github stats](https://github-readme-stats.vercel.app/api?username=IreneChoi&count_private=true&custom_title=타이틀&bg_color=45,D595B2,E2BBB4&title_color=000000&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Irene's github stats](https://github-readme-stats.vercel.app/api?username=irenechoii&count_private=true&custom_title=Irene's Status&bg_color=45,D595B2,E2BBB4&title_color=000000&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Solved.ac
