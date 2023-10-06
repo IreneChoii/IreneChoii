@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient:to(E2BBB4)&height=200&section=header&text=Irene%20Choi&fontSize=90&fontColor=535353&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=soft&color=D595B2&height=200&section=header&text=Irene%20Choi&fontSize=90&fontColor=535353&animation=blinking)
 
 
 ## 🎀 Welcom to Irene's Github 🎀
