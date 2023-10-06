@@ -1,5 +1,5 @@
 # 🎀 Welcom to Irene's Github 🎀
-![header](https://capsule-render.vercel.app/api?type=soft&color=E2BBB4&height=300&section=header&text=🎀%10Irene%20Choi%10🎀&fontSize=90&fontColor=535353)
+![header](https://capsule-render.vercel.app/api?type=soft&color=E2BBB4&height=300&section=header&text=🎀%20Irene%20Choi%20🎀&fontSize=90&fontColor=535353)
 
 
 
