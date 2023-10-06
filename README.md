@@ -3,10 +3,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIreneChoii&count_bg=%238D8D8D&title_bg=%23E2BBB4&icon=awesomelists.svg&icon_color=%238D8D8D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Design Stack
+#### Design Stack
 ![Figma](https://img.shields.io/badge/figma-A26EF6.svg?&style=for-the-badge&logo=figma&logoColor=white)
 
-Programming Stack
+#### Programming Stack
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -20,6 +20,6 @@ Programming Stack
 ![React-Native](https://img.shields.io/badge/React-Native-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 
 
-
+#### Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=irenelove112)](https://solved.ac/irenelove112)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
