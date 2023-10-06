@@ -4,6 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIreneChoii&count_bg=%238D8D8D&title_bg=%23E2BBB4&icon=awesomelists.svg&icon_color=%238D8D8D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E2BBB4?logo=instagram&logoColor=FFFFFF&link=https://www.instagram.com/irenechoi_xvx/)](https://www.instagram.com/irenechoi_xvx/)
 [![Notion Badge](https://img.shields.io/badge/-Notion-E2BBB4?logo=Notion&logoColor=FFFFFF&link=https://irenechoii.notion.site/Portfolio-d422e1f4c37c4932991e7beebee67465?pvs=4/)](https://irenechoii.notion.site/Portfolio-d422e1f4c37c4932991e7beebee67465?pvs=4/)
+[![NaverBlog Badge](https://img.shields.io/badge/-Blog-E2BBB4?logo=Naver&logoColor=FFFFFF&link=https://blog.naver.com/irenelove112/)](https://blog.naver.com/irenelove112/)
 
 
 #### Design Stack
