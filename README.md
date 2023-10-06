@@ -1,8 +1,7 @@
-# 🎀 Welcom to Irene's Github 🎀
 ![header](https://capsule-render.vercel.app/api?type=wave&color=E2BBB4&height=300&section=header&text=🎀%20Irene%20Choi%20🎀&fontSize=90&fontColor=535353)
 
 
-
+## 🎀 Welcom to Irene's Github 🎀
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIreneChoii&count_bg=%238D8D8D&title_bg=%23E2BBB4&icon=awesomelists.svg&icon_color=%238D8D8D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Notion Badge](https://img.shields.io/badge/-Notion-E2BBB4?logo=Notion&logoColor=FFFFFF&link=https://irenechoii.notion.site/Portfolio-d422e1f4c37c4932991e7beebee67465?pvs=4/)](https://irenechoii.notion.site/Portfolio-d422e1f4c37c4932991e7beebee67465?pvs=4/)
