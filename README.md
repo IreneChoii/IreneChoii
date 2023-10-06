@@ -25,7 +25,7 @@
 
 
 #### Github Status
-[![Irene's github stats](https://github-readme-stats.vercel.app/api?username=IreneChoi&count_private=true&custom_title=IreneChoi&bg_color=45,D595B2,E2BBB4&title_color=8D8D8D&text_color=BABABA)](https://github.com/anuraghazra/github-readme-stats)
+[![Irene's github stats](https://github-readme-stats.vercel.app/api?username=IreneChoi&count_private=true&custom_title=IreneChoi's status&bg_color=45,D595B2,E2BBB4&title_color=8D8D8D&text_color=BABABA)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
