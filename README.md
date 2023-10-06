@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-F7DF1E.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-![React-Native](https://img.shields.io/badge/ReactNative-61DAFB.svg?&style=for-the-badge&logo=React-Native&logoColor=white)
+![React-Native](https://img.shields.io/badge/React-Native-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=irenelove112)](https://solved.ac/irenelove112)
