@@ -1,4 +1,7 @@
 # 🎀 Welcom to Irene's Github 🎀
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient(45,E2BBB4,D595B2)&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIreneChoii&count_bg=%238D8D8D&title_bg=%23E2BBB4&icon=awesomelists.svg&icon_color=%238D8D8D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
