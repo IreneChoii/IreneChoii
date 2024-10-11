@@ -38,7 +38,7 @@
 - Kotlin | Android Studio
 
 #### Hello, Interview
-> 솔트룩스
+> 기업 솔트룩스
 - 언어적 · 비언어적 커뮤니케이션 분석 기반 실시간 면접 코칭 시스템
 - Python | DjangoHTML
 - Chat-GPT API | Google Mediapipe | Google Cloud Vision | Google STT
