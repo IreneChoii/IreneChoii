@@ -1,41 +1,62 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=E2BBB4&height=200&section=header&text=Irene%20Choi&fontSize=90&fontColor=535353&animation=blinking)
+## Education
+#### Hansung Univ.
+- 1트랙 : 웹공학
+- 2트랙 : 모바일소프트웨어
+- 2022.03 - ing
+
+<br>
+
+## Front-End Skill
+| Category | Stack |
+|------:|:------|
+|Language|<img src="https://img.shields.io/badge/Java-FFE2DD?style=for-the-badge&logo=CoffeeScript&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/JavaScript-FDECC8?style=for-the-badge&logo=JavaScript&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/Python-D3DFEF?style=for-the-badge&logo=Python&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/Kotlin-E8DEEE?style=for-the-badge&logo=Kotlin&logoColor=black" height="20"/>|
+|Framework|<img src="https://img.shields.io/badge/React-D3E5EF?style=for-the-badge&logo=React&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/Flask-E3E2E0?style=for-the-badge&logo=Flask&logoColor=black" height="20"/>|
+|Library|  <img src="https://img.shields.io/badge/OpenCV-EFDFDA?style=for-the-badge&logo=OpenCV&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/Tensorflow-FADEC9?style=for-the-badge&logo=Tensorflow&logoColor=black" height="20"/>|
+|Collaboration|<img src="https://img.shields.io/badge/Figma-F4E0EF?style=for-the-badge&logo=Figma&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/Slack-FAD7C9?style=for-the-badge&logo=Slack&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/GitHub-E0E0E3?style=for-the-badge&logo=GitHub&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Notion-F1F0F0?style=for-the-badge&logo=Notion&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/Discord-E8DEEE?style=for-the-badge&logo=Discord&logoColor=black" height="20"/>|
+|SoftWare|  <img src="https://img.shields.io/badge/Android Studio-DBEDDB?style=for-the-badge&logo=AndroidStudio&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/Xcode-D3E1EF?style=for-the-badge&logo=Xcode&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/IntelliJ-F4E0E3?style=for-the-badge&logo=IntelliJ IDEA&logoColor=black" height="20"/>|
+
+<br>
+
+## Project
+#### Dear My Diary
+> Qualcomm
+- Qualcomm 주관 On-device AI 기반 다이어리 App 개발 프로젝트<br>
+- Kotlin | Android Studio
+
+#### Sporty
+> LG U+
+- 스포츠 분야 이미지 인식 모델 연구 개발을 통한 자동 야구 중개 하이라이트 영상 생성
+
+#### Campus Wallet
+> 기업 UWS
+- 분산원장(Distributed Ledger) 기반 BNPL(Buy Now, Pay Later) 결제서비스 적용을 통한 뉴 Biz 모델 사업화
+- Figma | Remix IDE | ERC 20(Open Zeppelin)
+
+#### Mini Delivery
+> 공학경진대회
+- Raspberry Pi Car를 활용한 자율주행 배달 서비스
+- Kotlin | Android Studio
+
+#### Hello, Interview
+> 산학연구 | 솔트룩스
+- 언어적 · 비언어적 커뮤니케이션 분석 기반 실시간 면접 코칭 시스템
+- Python | DjangoHTML
+- Chat-GPT API | Google Mediapipe | Google Cloud Vision | Google STT
 
 
-## 🎀 Welcom to Irene's Github 🎀
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIreneChoii&count_bg=%238D8D8D&title_bg=%23E2BBB4&icon=awesomelists.svg&icon_color=%238D8D8D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Notion Badge](https://img.shields.io/badge/-Notion-E2BBB4?logo=Notion&logoColor=FFFFFF&link=https://irenechoii.notion.site/Portfolio-d422e1f4c37c4932991e7beebee67465?pvs=4/)](https://irenechoii.notion.site/Portfolio-d422e1f4c37c4932991e7beebee67465?pvs=4/)
-[![Velog Badge](https://img.shields.io/badge/-irenechoii.log-E2BBB4?logo=Velog&logoColor=FFFFFF&link=https://velog.io/@irenechoii/)](https://velog.io/@irenechoii/)
-[![NaverBlog Badge](https://img.shields.io/badge/-Blog-E2BBB4?logo=Naver&logoColor=FFFFFF&link=https://blog.naver.com/irenelove112/)](https://blog.naver.com/irenelove112/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E2BBB4?logo=instagram&logoColor=FFFFFF&link=https://www.instagram.com/irenechoi_xvx/)](https://www.instagram.com/irenechoi_xvx/)
-
-
-#### Design Stack
-![Figma](https://img.shields.io/badge/figma-D595B2.svg?&style=for-the-badge&logo=figma&logoColor=white)
-
-#### Programming Stack
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF8F0C.svg?&style=for-the-badge&logo=Java&logoColor=white)
-
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-![React-Native](https://img.shields.io/badge/ReactNative-535353.svg?&style=for-the-badge&logo=React&logoColor=white)
-
-
-#### Top Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irenechoii&langs_count=5)
-
-
-#### Github Status
-[![Irene's github stats](https://github-readme-stats.vercel.app/api?username=IreneChoi&count_private=true&custom_title=IreneChoi👀&bg_color=45,E2BBB4,DDAFC4,E2BBB4,DDAFC4,E2BBB4&title_color=000000&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="41" height="41" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="41" height="41" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" />
+</div>
 
 
 
-#### Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=irenelove112)](https://solved.ac/irenelove112)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+<!--
+##### githun status
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenechoii&langs_count=5" height="160" />
+  <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm" height="160" />
+</div>
+-->
